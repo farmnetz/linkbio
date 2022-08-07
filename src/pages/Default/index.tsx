@@ -55,7 +55,7 @@ const Default = ({
   });
 
   const [headerList, setHeaderList] = useState<IHeader>({
-    name: "Cronofobico's Links",
+    name: "Farmnetz's Links",
     image: '',
   });
 
