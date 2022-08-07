@@ -65,7 +65,7 @@ const Default = ({
       url: 'http://www.angelodias.com.br',
     },
     {
-      title: 'Sci Fi Newspaper!',
+      title: 'Motorsport!',
       url: 'http://www.temposfantasticos.com',
     },
     {
