@@ -73,7 +73,7 @@ const Default = ({
       url: 'https://github.com/angelod1as/linkbio',
     },
     {
-      title: 'My GitHub',
+      title: 'My kickhub',
       url: 'https://github.com/angelod1as/',
     },
   ]);
